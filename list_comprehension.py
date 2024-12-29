@@ -8,7 +8,6 @@ def listFrmRng():
     print(a)
 
 listFrmRng()
-
 def doubleInList():
     b = [6.6,7,8,9,1,3]
     c = [x**2 for x in b]
